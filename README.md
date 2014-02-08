@@ -1,0 +1,4 @@
+mandelbrot
+==========
+
+Mandelbrot fractal generator
