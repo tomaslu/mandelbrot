@@ -32,13 +32,13 @@ python mandelbrot.py -x 1600 -y 1200 -i 10 -o mandelbrot_1600x1200_10.png
 ![drawing](./examples/mandelbrot_1600x1200_10.png)
 
 <pre>
-python mandelbrot.py -x 1600 -y 1200 -i 10 -o mandelbrot_1600x1200_25.png
+python mandelbrot.py -x 1600 -y 1200 -i 25 -o mandelbrot_1600x1200_25.png
 </pre>
 
 ![drawing](./examples/mandelbrot_1600x1200_25.png)
 
 <pre>
-python mandelbrot.py -x 1600 -y 1200 -i 10 -o mandelbrot_1600x1200_50.png
+python mandelbrot.py -x 1600 -y 1200 -i 50 -o mandelbrot_1600x1200_50.png
 </pre>
 
 ![drawing](./examples/mandelbrot_1600x1200_50.png)
